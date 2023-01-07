@@ -1,6 +1,6 @@
 ### Hi, I'm Sv3ks 👋
 
-- 🔭 I’m currently working on Prune, a minecraft [Skript](https://github.com/SkriptLang/Skript) library.
+- 🔭 I’m currently working on [Prune](https://github.com/Sv3ks/Prune), a minecraft [Skript](https://github.com/SkriptLang/Skript) library.
 <!-- - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on Skript projects
 - 🤔 I’m looking for help with ...
