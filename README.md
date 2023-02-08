@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sv3ks</h1>
 <h3 align="center">A teenage developer from denmark</h3>
 
-- 🔭 I’m currently working on [SEntials](https://github.com/Sv3ks/SEntials)
+- 🔭 I’m currently working on [PrisonBander](https://github.com/Sv3ks/PrisonBander)
 
 - 🌱 I’m currently learning **Spigot development with Java**
 
