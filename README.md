@@ -1,5 +1,5 @@
 ### 👋 Hi there, I'm Sv3ks!
-### ⚡ Prefer & proficient in Python.
+### ⚡ Prefer working in Python or Java (weird combo i know).
 ### 🌱 Learning Interpreting.
-### 🛠️ Current Project: [NeoLang](https://github.com/NeoLangTeam/NeoLang/)
+### 🛠️ Current Project: [LANhoot](https://github.com/Sv3ks/LANhoot/)
 ### 💻 Working in VSCode.
