@@ -1,5 +1,5 @@
 ### 👋 Hi there!
-### ⚡ Prefer working in Python or Java (weird combo i know).
-### 🌱 Learning sockets.
-### 🛠️ Current Project: [LANhoot](https://github.com/Sv3ks/LANhoot/)
+### ⚡ Prefer working in Java.
+### 🌱 Learning socketing.
+### 🛠️ Current Project: [OpenQuizApp](https://github.com/Sv3ks/OpenQuizApp/)
 ### 💻 Working in VSCode.
