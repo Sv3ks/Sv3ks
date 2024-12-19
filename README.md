@@ -1,5 +1,6 @@
 ### 👋 Hi there!
 ### ⚡ Prefer working in Java.
-### 🌱 Learning socketing.
-### 🛠️ Current Project: [OpenQuizApp](https://github.com/Sv3ks/OpenQuizApp/)
-### 💻 Working in VSCode.
+### 📖 Reading A Tour of C++.
+### 🌱 Learning String Manipulation.
+### 🛠️ Current Project: Lexer in Java.
+### 💻 Working in Eclipse & VSC.
